@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+/*
+em HTML id - em CSS # 
+em HTML class - em CSS .
+*/
+
+body{
+    background-color: rgb(76, 235, 132);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: #074c10;
+}
+
+h1#principal{
+    text-align: center;
+    background-color: #074c10;
+    color: white;
+}
+
+h2{
+    color: #0f8b20;
+}
+
+.basico{
+    color: #0f8b20;
+}
+
+.intermediario{
+    color: #cdc60e;
+}
+
+.avancado{
+    color: #cd0e0e;
+}
+
+.destaque{
+    background-color: antiquewhite;
+}
